@@ -71,7 +71,7 @@ My Cons from this MBTI :  장기적인 프로젝트에 약하다., 따지기를 
 
 
 Contact   
--phone 010-2237-5045
+- Phone 010-2237-5045
 - E-mail : buckingham0912@gmail.com
 - github address: [정현학][github]
 
