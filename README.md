@@ -2,3 +2,5 @@
 ---
 ![이력서 사진](정현학.jpg)
 
+<img src=정현학.jpg height=150 width=150>
+
